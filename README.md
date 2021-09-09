@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am pursing my masters in North West Missouri State University in Applied Computer Scienece.
+
 <!--
 **GandraAlekhya/GandraAlekhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
